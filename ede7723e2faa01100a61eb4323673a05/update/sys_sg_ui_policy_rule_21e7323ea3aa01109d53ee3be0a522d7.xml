@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_policy_rule">
+    <sys_sg_ui_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>department</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_sg_ui_policy_rule</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:58</sys_created_on>
+        <sys_id>21e7323ea3aa01109d53ee3be0a522d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>department</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_ui_policy_rule_21e7323ea3aa01109d53ee3be0a522d7</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:58</sys_updated_on>
+        <table>sys_user</table>
+        <ui_policy display_value="Hide Department if empty">65e7323e74aa0110db773ae670887fd7</ui_policy>
+        <visible>false</visible>
+    </sys_sg_ui_policy_rule>
+</record_update>

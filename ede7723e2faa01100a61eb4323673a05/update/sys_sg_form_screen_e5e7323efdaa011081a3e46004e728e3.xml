@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Direct Reports Icon">69e7323e4baa01101dee700a919ff3e0</icon>
+        <item_view/>
+        <name>My Direct Reports</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override>x_729335_quot_gt_0.manager</roles_override>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:59</sys_created_on>
+        <sys_id>e5e7323efdaa011081a3e46004e728e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Direct Reports</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_form_screen_e5e7323efdaa011081a3e46004e728e3</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:59</sys_updated_on>
+        <table>sys_user</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Direct Reports View Config">a5e7323e22aa01106ba1e4a88d5f80e0</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=e5e7323efdaa011081a3e46004e728e3"/>
+</record_update>

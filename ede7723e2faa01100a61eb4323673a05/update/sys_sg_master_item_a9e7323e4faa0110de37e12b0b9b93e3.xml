@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_729335_quot_gt_0_relationship_notes</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="">2d8cfb780f016010e3a6120ba4767edb</embedded_screen>
+        <item_view/>
+        <name>List of Notes Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:53</sys_created_on>
+        <sys_id>a9e7323e4faa0110de37e12b0b9b93e3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List of Notes Main Item</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_master_item_a9e7323e4faa0110de37e12b0b9b93e3</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:53</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="List of Notes View Config">61e7323eefaa011034c807cc40ec62da</view_config>
+    </sys_sg_master_item>
+</record_update>

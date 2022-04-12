@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_notification_category">
+    <sys_notification_category action="INSERT_OR_UPDATE">
+        <name>x_729335_quot_gt_0.Team Contact </name>
+        <short_description>Team Contact Notifications</short_description>
+        <sys_class_name>sys_notification_category</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:54</sys_created_on>
+        <sys_id>e5e7723ec1aa0110f49f6ea211bccf02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_729335_quot_gt_0.Team Contact</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_notification_category_e5e7723ec1aa0110f49f6ea211bccf02</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:54</sys_updated_on>
+    </sys_notification_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=e5e7723ec1aa0110f49f6ea211bccf02"/>
+</record_update>

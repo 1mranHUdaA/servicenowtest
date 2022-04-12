@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="relationship" table="x_729335_quot_gt_0_relationship_notes" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>relationship</element>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>fae7b23e97aa0110d44ebfb3f153af87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>relationship</sys_name>
+            <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+            <sys_update_name>sys_choice_x_729335_quot_gt_0_relationship_notes_relationship</sys_update_name>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Meeting</label>
+            <language>en</language>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6de7723ec4aa01103b2bfa2d0022b101</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+            <value>meeting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Conference</label>
+            <language>en</language>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69e7723e08aa0110c0e9ace3e481c801</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+            <value>conference</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Teammate</label>
+            <language>en</language>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29e7723e2eaa0110210ab3417d63bb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+            <value>teammate</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Casual</label>
+            <language>en</language>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a5e7723e5daa01102eff193bbc435001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+            <value>casual</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Executive</label>
+            <language>en</language>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2de7723e66aa011050780b569dbc1001</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+            <value>executive</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>relationship</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Customer</label>
+            <language>en</language>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a9e7723eebaa01109424e231d20eee01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+            <value>customer</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

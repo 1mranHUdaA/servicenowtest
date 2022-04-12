@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public - Team Contacts">29e7323e83aa0110a16d97258eff02c5</applicability>
+        <order>0</order>
+        <screen display_value="404 Default">a5e7323ee1aa011058afe5242e82dccb</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:56</sys_created_on>
+        <sys_id>e5e7323ea5aa01100132fff1d6708cc5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_e5e7323ea5aa01100132fff1d6708cc5</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:56</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

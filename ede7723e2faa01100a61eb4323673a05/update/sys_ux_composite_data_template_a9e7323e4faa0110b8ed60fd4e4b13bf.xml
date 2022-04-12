@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template">
+    <sys_ux_composite_data_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Team Contact Search</name>
+        <sys_class_name>sys_ux_composite_data_template</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+        <sys_id>a9e7323e4faa0110b8ed60fd4e4b13bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Team Contact Search</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_a9e7323e4faa0110b8ed60fd4e4b13bf</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+        <template>{&#13;
+    "component": "sn-search-result-evam-card",&#13;
+    "staticValues": {&#13;
+		"highlightedHeaderBkgColor": {&#13;
+			"translatable": false,&#13;
+			"key": "moderate"&#13;
+		},&#13;
+		"imageType": {&#13;
+			"translatable": false,&#13;
+			"key": "avatar"&#13;
+		},&#13;
+		"detailLabelOne": {&#13;
+			"translatable": true,&#13;
+			"key": "Email: "&#13;
+		}&#13;
+	},&#13;
+    "mappings": {&#13;
+        "textHeaderLabelOne": "department",&#13;
+        "textHeaderLabelTwo": "location.city",&#13;
+        "avatarURL": "avatar",&#13;
+		"avatarName": "name",&#13;
+        "title": "name",&#13;
+        "summary": "title",&#13;
+        "detailValueOne": "email"&#13;
+    },&#13;
+    "actionMappings": {&#13;
+        "clickAction": "navigation"&#13;
+    }&#13;
+}</template>
+    </sys_ux_composite_data_template>
+</record_update>

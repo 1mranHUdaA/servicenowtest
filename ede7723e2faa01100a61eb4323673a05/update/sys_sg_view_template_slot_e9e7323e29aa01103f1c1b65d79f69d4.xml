@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>38c7d1f6-0234-ef59-2624-406ffc4f2de0</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+        <sys_id>e9e7323e29aa01103f1c1b65d79f69d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>38c7d1f6-0234-ef59-2624-406ffc4f2de0</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_e9e7323e29aa01103f1c1b65d79f69d4</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+        <type>text</type>
+        <view_template display_value="Team Contact Notes">29e7323e8caa01102586685e755ebed6</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

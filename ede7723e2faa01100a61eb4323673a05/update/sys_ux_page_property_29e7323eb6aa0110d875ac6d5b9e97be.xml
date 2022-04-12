@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>- Global Search Configuration</description>
+        <name>global_search_configurations</name>
+        <page display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">65e7723e3baa0110113375ffaa941005</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>29e7323eb6aa0110d875ac6d5b9e97be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global_search_configurations</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_ux_page_property_29e7323eb6aa0110d875ac6d5b9e97be</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:51</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_729335_quot_gt_0.65e7723e3baa0110113375ffaa941005.root.global_search_configurations</unique_name>
+        <value>{&#13;
+  "globalSearchContextConfigId": "61e7723ef2aa01102f14865e7068cd03",&#13;
+"evamDefinitionId": "a5e7323ed6aa0110861fe630c1c178c1"&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=29e7323eb6aa0110d875ac6d5b9e97be"/>
+</record_update>

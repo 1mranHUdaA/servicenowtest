@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="21e7323ea6aa01107b05a36da83388c8" sys_domain="global" table="x_729335_quot_gt_0_relationship_notes" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>0</position>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_id>69e7323e57aa01105ee171f9d7aefdc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_729335_quot_gt_0_relationship_notes" sys_domain="global" view="Default view">21e7323ea6aa01107b05a36da83388c8</sys_ui_section>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>relationship</element>
+            <position>1</position>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_id>e1e7323eecaa011045c6dc886471afc8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_729335_quot_gt_0_relationship_notes" sys_domain="global" view="Default view">21e7323ea6aa01107b05a36da83388c8</sys_ui_section>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_id>a5e7323e7daa01100e2a99b80ed519c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_729335_quot_gt_0_relationship_notes" sys_domain="global" view="Default view">21e7323ea6aa01107b05a36da83388c8</sys_ui_section>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_date</element>
+            <position>3</position>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_id>65e7323ea4aa0110382f70c8c0fb1cc7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_729335_quot_gt_0_relationship_notes" sys_domain="global" view="Default view">21e7323ea6aa01107b05a36da83388c8</sys_ui_section>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_location</element>
+            <position>4</position>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_id>e5e7323e76aa011022460d868ad234c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_729335_quot_gt_0_relationship_notes" sys_domain="global" view="Default view">21e7323ea6aa01107b05a36da83388c8</sys_ui_section>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>5</position>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_id>2de7323e63aa01100728bd25584c90c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_729335_quot_gt_0_relationship_notes" sys_domain="global" view="Default view">21e7323ea6aa01107b05a36da83388c8</sys_ui_section>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>note</element>
+            <position>6</position>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_id>ade7323e23aa0110c300628371a308c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_729335_quot_gt_0_relationship_notes" sys_domain="global" view="Default view">21e7323ea6aa01107b05a36da83388c8</sys_ui_section>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_729335_quot_gt_0_relationship_notes</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>imranhudaa</sys_created_by>
+            <sys_created_on>2022-04-03 04:47:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>21e7323ea6aa01107b05a36da83388c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_729335_quot_gt_0_relationship_notes</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+            <sys_update_name>sys_ui_section_21e7323ea6aa01107b05a36da83388c8</sys_update_name>
+            <sys_updated_by>imranhudaa</sys_updated_by>
+            <sys_updated_on>2022-04-03 04:47:01</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

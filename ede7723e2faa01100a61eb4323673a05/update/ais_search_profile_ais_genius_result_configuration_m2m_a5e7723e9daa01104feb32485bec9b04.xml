@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_genius_result_configuration_m2m">
+    <ais_search_profile_ais_genius_result_configuration_m2m action="INSERT_OR_UPDATE">
+        <genius_result_configuration display_value="Team Contact  Genius Result">ede7723e23aa0110d454455e15ee8804</genius_result_configuration>
+        <order>100</order>
+        <profile display_value="Team Contact Default Search Profile">e1e7723e9caa0110f9e93d2d10f28a05</profile>
+        <sys_class_name>ais_search_profile_ais_genius_result_configuration_m2m</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:47:06</sys_created_on>
+        <sys_id>a5e7723e9daa01104feb32485bec9b04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Team Contact  Genius Result.Team Contact Default Search Profile</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>ais_search_profile_ais_genius_result_configuration_m2m_a5e7723e9daa01104feb32485bec9b04</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:47:06</sys_updated_on>
+    </ais_search_profile_ais_genius_result_configuration_m2m>
+</record_update>

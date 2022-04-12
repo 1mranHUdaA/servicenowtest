@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:53</sys_created_on>
+        <sys_id>29e7323e4baa01103e3dbbd32d9827d5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_29e7323e4baa01103e3dbbd32d9827d5</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:53</sys_updated_on>
+        <view_config display_value="List of Notes View Config">6de7323e90aa0110df8ca821d36b03d6</view_config>
+        <view_template_slot display_value="">e61b413441275010f877183fc9b8be18</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

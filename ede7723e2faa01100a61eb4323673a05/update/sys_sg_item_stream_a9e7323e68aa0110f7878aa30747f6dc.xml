@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="My direct reports">a5e7323ed8aa01105aec0812ed306ce1</data_item>
+        <interleaved_field/>
+        <name>My Direct Reports Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:47:02</sys_created_on>
+        <sys_id>a9e7323e68aa0110f7878aa30747f6dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Direct Reports Item Stream</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_item_stream_a9e7323e68aa0110f7878aa30747f6dc</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:47:02</sys_updated_on>
+        <table>sys_user</table>
+    </sys_sg_item_stream>
+</record_update>

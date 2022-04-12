@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:47:04</sys_created_on>
+        <sys_id>e9e7323ed4aa0110eb06817e888a1aec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_729335_quot_gt_0_relationship_contact.x_729335_quot_gt_0.employee</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_security_acl display_value="x_729335_quot_gt_0_relationship_contact">6de7323eebaa0110f2beb5cae8d8a7ec</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e9e7323ed4aa0110eb06817e888a1aec</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:47:04</sys_updated_on>
+        <sys_user_role display_value="x_729335_quot_gt_0.employee" name="x_729335_quot_gt_0.employee">a5e7723e45aa0110c732c667afd77705</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

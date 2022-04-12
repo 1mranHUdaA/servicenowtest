@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">25e7323e16aa01101369eb4cec6552e7</applet_launcher>
+        <icon display_value="Group">143d8da2b72200108223e126de11a927</icon>
+        <label>Employees</label>
+        <roles/>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:56</sys_created_on>
+        <sys_id>6de7323eecaa0110f8f6d32106b50ae6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employees</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_6de7323eecaa0110f8f6d32106b50ae6</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:56</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

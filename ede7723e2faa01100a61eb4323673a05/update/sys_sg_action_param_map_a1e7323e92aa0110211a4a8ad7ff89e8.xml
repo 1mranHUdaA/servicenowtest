@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Reminder">ade7323ed4aa0110f6e710440d955eea</button>
+        <item_parameter display_value="Notification_date">ede7323eb5aa0110f7d863533051ece7</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:52</sys_created_on>
+        <sys_id>a1e7323e92aa0110211a4a8ad7ff89e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ede7323eb5aa0110f7d863533051ece7</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_a1e7323e92aa0110211a4a8ad7ff89e8</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:52</sys_updated_on>
+        <ui_parameter display_value="Date to remind me">29e7323eb6aa011076d35e107893cae8</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

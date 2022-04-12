@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_729335_quot_gt_0.manager" name="x_729335_quot_gt_0.manager">29e7723e71aa0110d10e6d23ce7c9e05</contains>
+        <role display_value="x_729335_quot_gt_0.admin" name="x_729335_quot_gt_0.admin">69e7723e68aa0110c3bc38d259557605</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:47:03</sys_created_on>
+        <sys_id>e1e7323eb7aa01108f738ac0182b49c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_user_role_contains_e1e7323eb7aa01108f738ac0182b49c7</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:47:03</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

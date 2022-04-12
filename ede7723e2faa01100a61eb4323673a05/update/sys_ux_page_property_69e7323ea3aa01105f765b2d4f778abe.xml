@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">65e7723e3baa0110113375ffaa941005</page>
+        <required_translations>[{"message":"Logout","comment":""},{"message":"UserMenu","comment":""}]</required_translations>
+        <route display_value="teammates">2de7323e9aaa011038116717f825aac4</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>imranhudaa</sys_created_by>
+        <sys_created_on>2022-04-03 04:46:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>69e7323ea3aa01105f765b2d4f778abe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;" source="x_729335_quot_gt_0">ede7723e2faa01100a61eb4323673a05</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="\&quot;&gt;&lt;img src=x onerror=alert(1)&gt;">ede7723e2faa01100a61eb4323673a05</sys_scope>
+        <sys_update_name>sys_ux_page_property_69e7323ea3aa01105f765b2d4f778abe</sys_update_name>
+        <sys_updated_by>imranhudaa</sys_updated_by>
+        <sys_updated_on>2022-04-03 04:46:55</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_729335_quot_gt_0.65e7723e3baa0110113375ffaa941005.route.chrome_header.2de7323e9aaa011038116717f825aac4</unique_name>
+        <value>{&#13;
+  "privatePage": {&#13;
+    "notificationsEnabled": true,&#13;
+    "searchEnabled": false,&#13;
+    "userPrefsEnabled": true,&#13;
+    "globalTools": {&#13;
+      "collapsingMenuId": 0,&#13;
+      "primaryItems": [&#13;
+        {&#13;
+          "label": "UserMenu",&#13;
+          "icon": "user",&#13;
+          "type": "menu",&#13;
+          "primaryDisplay": "icon",&#13;
+          "value": {&#13;
+            "children": [&#13;
+              {&#13;
+                "label": "Logout",&#13;
+                "type": "navigation",&#13;
+                "position": 200,&#13;
+                "value": {&#13;
+                  "value": {&#13;
+                    "href": "/x/729335/x_729335_quot_gt_0/login/params/logged-out/true"&#13;
+                  },&#13;
+                  "type": ""&#13;
+                }&#13;
+              }&#13;
+            ]&#13;
+          }&#13;
+        }&#13;
+      ],&#13;
+      "secondaryItems": []&#13;
+    }&#13;
+  },&#13;
+  "publicPage": {&#13;
+"logoRoute": {&#13;
+                "type":"route",&#13;
+                "value": {&#13;
+                    "route": "home",&#13;
+                    "fields": {}&#13;
+                }&#13;
+        },&#13;
+    "actionButtons": []&#13;
+  }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=69e7323ea3aa01105f765b2d4f778abe"/>
+</record_update>
